@@ -23,3 +23,5 @@ function App() {
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(<App />, rootElement);
+
+// @see: https://medium.com/@sdolidze/the-iceberg-of-react-hooks-af0b588f43fb
